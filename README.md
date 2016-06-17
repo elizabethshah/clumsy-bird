@@ -30,7 +30,7 @@ Open your browser at `http://localhost:8001/`
 
 See [CUSTOMIZING](https://github.com/ellisonleao/clumsy-bird/blob/gh-pages/CUSTOMIZING.md)
 
-## Some nice games made with this project Hi!!
+## Some nice games made with this project Hi!
 
 [Checkout here](https://github.com/ellisonleao/clumsy-bird/wiki/Games-using-clumsy-bird-code)
 
